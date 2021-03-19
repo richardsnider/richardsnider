@@ -23,7 +23,7 @@ things I love:
   - functional programming
   - ubuntu/debian
   - vscode
-  - flexibility of javascript
+  - flexibility of javascript (also wasm still seems a bit premature as of 3/19/2021)
   - performance of golang
 
 things I tried that still aren't ready it seems:
