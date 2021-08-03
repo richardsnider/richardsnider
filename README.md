@@ -1,3 +1,6 @@
+checkout my org account: github.com/vorprog
+checkout my github pages: richardsnider.github.io
+
 highly experienced with:
  - aws cli with core services (s3, iam, r53, vpc transit gateways, EC2, kms, ELB/ALB, rds, etc)
  - linux (mostly debian), docker, kubectl, helm charts
@@ -10,7 +13,7 @@ highly experienced with:
 some experience with:
   - kubernetes cluster administration, kops
   - golang
-  - prometheus and grafana
+  - prometheus, grafana, fluentd
   - wireguard
   - typescript + react + redux
   - linkerd service mesh
@@ -19,4 +22,5 @@ some experience with:
 things I love:
   - functional programming with javascript and golang
   - ubuntu/debian
+  - github actions and building automation/pipelines
   - vscode
