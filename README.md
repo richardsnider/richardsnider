@@ -1,6 +1,6 @@
-checkout my org account: github.com/vorprog
+checkout my org account: https://github.com/vorprog
 
-checkout my github pages: richardsnider.github.io
+checkout my github pages: https://richardsnider.github.io
 
 highly experienced with:
  - aws cli with core services (s3, iam, r53, vpc transit gateways, EC2, kms, ELB/ALB, rds, etc)
