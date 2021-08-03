@@ -2,7 +2,7 @@ checkout my [github pages site](https://richardsnider.github.io) or my [org acco
 
 <h2> highly experienced with: </h2>
 
-AWS CLI | S3 | IAM | ROUTE 53 | VPC TRANSIT GATEWAYS | KMS |  EC2 | ELB | ALB | RDS | linux (mostly debian) | docker | [kubernetes](https://github.com/kubernetes/kubernetes) | [kubectl](https://github.com/kubernetes/kubectl) | [helm charts](https://github.com/helm/helm) | [github actions runner](https://github.com/actions/runner) | [jenkins](https://github.com/jenkinsci/jenkins) | [codefresh CI/CD](https://codefresh.io/) | Layer 3 / TCP | HTTP | HTTP2 | [terraform enterprise](https://github.com/hashicorp/terraform) | [gloo edge](https://www.solo.io/products/gloo-edge/) | [node js](https://github.com/nodejs/node)
+AWS CLI | S3 | IAM | ROUTE 53 | VPC TRANSIT GATEWAYS | KMS |  EC2 | ELB | ALB | RDS | linux (mostly debian) | docker | [kubernetes](https://github.com/kubernetes/kubernetes) | [kubectl](https://github.com/kubernetes/kubectl) | [helm charts](https://github.com/helm/helm) | [github actions runner](https://github.com/actions/runner) | [jenkins](https://github.com/jenkinsci/jenkins) | [codefresh CI/CD](https://codefresh.io/) | Layer 3 / TCP | HTTP | HTTP2 | [terraform enterprise](https://github.com/hashicorp/terraform) | [gloo edge](https://www.solo.io/products/gloo-edge/) | [node js](https://github.com/nodejs/node) | AWS Elasticsearch/Kibana
 
 <h2> significant experience with: </h2>
 
