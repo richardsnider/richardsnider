@@ -1,27 +1,7 @@
-checkout my org account: https://github.com/vorprog
+checkout my [github pages site](https://richardsnider.github.io) or my [org account](https://github.com/vorprog)
 
-checkout my github pages: https://richardsnider.github.io
+highly experienced with: AWS CLI | S3 | IAM | ROUTE 53 | VPC TRANSIT GATEWAYS | KMS |  EC2 | ELB | ALB | RDS | linux (mostly debian) | docker | [kubernetes](https://github.com/kubernetes/kubernetes) | [kubectl](https://github.com/kubernetes/kubectl) | [helm charts](https://github.com/helm/helm) | [github actions runner](https://github.com/actions/runner) | [jenkins](https://github.com/jenkinsci/jenkins) | [codefresh CI/CD](https://codefresh.io/) | Layer 3 / TCP | HTTP | HTTP2 | [terraform enterprise](https://github.com/hashicorp/terraform) | [gloo edge](https://www.solo.io/products/gloo-edge/) | [node js](https://github.com/nodejs/node)
 
-highly experienced with:
- - aws cli with core services (s3, iam, r53, vpc transit gateways, EC2, kms, ELB/ALB, rds, etc)
- - linux (mostly debian), docker, kubectl, helm charts
- - CI/CD (github actions, jenkins, codefresh)
- - layer 3 and up (TCP / HTTP / HTTP2)
- - terraform / terraform enterprise
- - gloo edge virtual services CRD
- - node js
+some experience with: [kops](https://github.com/kubernetes/kops) | [golang](https://github.com/golang/go) | [prometheus](https://github.com/prometheus/prometheus) | [grafana](https://github.com/grafana/grafana) | [fluentd](https://github.com/fluent/fluentd) | [wireguard](https://github.com/WireGuard) | [typescript](https://github.com/microsoft/TypeScript) | [react](https://github.com/reactjs/reactjs.org) | [linkerd2](https://github.com/linkerd/linkerd2) | [okta](https://www.okta.com/) | SSO/SAML | [splunk](https://www.splunk.com/)
 
-some experience with:
-  - kubernetes cluster administration, kops
-  - golang
-  - prometheus, grafana, fluentd
-  - wireguard
-  - typescript + react + redux
-  - linkerd service mesh
-  - okta + saml
-
-things I love:
-  - functional programming with javascript and golang
-  - ubuntu/debian
-  - github actions and building automation/pipelines
-  - vscode
+things I love: nodejs | golang | ubuntu/debian | github actions | vscode | death metal | guitar | tesla | d&d
