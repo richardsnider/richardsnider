@@ -1,4 +1,4 @@
-checkout my [github pages site](https://richardsnider.github.io) or my [org account](https://github.com/vorprog)
+checkout my [github pages site](https://richardsnider.github.io), my [org account](https://github.com/vorprog), and my [linkedin](https://www.linkedin.com/in/richardsnider/)
 
 <h2> highly experienced with: </h2>
 
