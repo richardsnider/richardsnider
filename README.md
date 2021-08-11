@@ -10,4 +10,4 @@ AWS CLI | S3 | IAM | ROUTE 53 | VPC TRANSIT GATEWAYS | KMS |  EC2 | ELB | ALB | 
 
 <h2> things I love: </h2>
 
-nodejs | golang | ubuntu/debian | github actions | vscode | death metal | guitar | tesla | d&d
+nodejs | golang | ubuntu/debian | github actions | vscode | death metal | guitar | tesla | d&d | mtg
