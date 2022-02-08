@@ -2,7 +2,11 @@ checkout my [github pages site](https://richardsnider.github.io), my [org accoun
 
 <h2> highly experienced with: </h2>
 
+<details>
+<summary>highly experience with:</summary>
+
 AWS CLI | S3 | IAM | ROUTE 53 | VPC TRANSIT GATEWAYS | KMS |  EC2 | ELB | ALB | RDS | linux (mostly debian) | docker | [kubernetes](https://github.com/kubernetes/kubernetes) | [kubectl](https://github.com/kubernetes/kubectl) | [helm charts](https://github.com/helm/helm) | [github actions runner](https://github.com/actions/runner) | [golang](https://github.com/golang/go) | [codefresh CI/CD](https://codefresh.io/) | TCP + HTTP | [terraform enterprise](https://github.com/hashicorp/terraform) | [gloo edge](https://www.solo.io/products/gloo-edge/) | [node js](https://github.com/nodejs/node) | [fluentd](https://github.com/fluent/fluentd) | AWS Elasticsearch/Kibana
+</details>
 
 <h2> significant experience with: </h2>
 
