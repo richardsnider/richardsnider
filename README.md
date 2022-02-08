@@ -10,7 +10,7 @@ AWS CLI | S3 | IAM | ROUTE 53 | VPC TRANSIT GATEWAYS | KMS |  EC2 | ELB | ALB | 
 
 <h2> significant experience with: </h2>
 
-[kops](https://github.com/kubernetes/kops) | [prometheus](https://github.com/prometheus/prometheus) | [grafana](https://github.com/grafana/grafana) | [wireguard](https://github.com/WireGuard) | [jenkins](https://github.com/jenkinsci/jenkins) | [react](https://github.com/reactjs/reactjs.org) | [linkerd2](https://github.com/linkerd/linkerd2) | [okta](https://www.okta.com/) | SSO/SAML | [splunk](https://www.splunk.com/) | HTTP2
+[kops](https://github.com/kubernetes/kops) | [prometheus](https://github.com/prometheus/prometheus) | [grafana](https://github.com/grafana/grafana) | [wireguard](https://github.com/WireGuard) | [jenkins](https://github.com/jenkinsci/jenkins) | [react](https://github.com/reactjs/reactjs.org) | [linkerd2](https://github.com/linkerd/linkerd2) | [okta](https://www.okta.com/) | SSO/SAML | [splunk](https://www.splunk.com/) | HTTP2 | [ethereum](https://github.com/ethereum/go-ethereum) | dApps
 
 <h2> things I love: </h2>
 
